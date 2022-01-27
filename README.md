@@ -15,15 +15,12 @@ Submit a Pull Request to this repository that that adds three things:
 🖼️ An image for the token in the [images](images) folder.  
 💸 A comment, with the transaction id showing you submitted 50 ADA to the [Payment address](addr1vysu7s7uvdr09w7mz8uz7mj4pw8qp57rja58jlfpag7zzsqq49n6f)
 
+
+### JSON token description
+
 The folder `tokens` contains [JSON](https://en.wikipedia.org/wiki/JSON) files that describe each verified token listed at AdaMuesliSwap.
 Each file contains information on what the coin is called, its supply and other important information.
 The name of the file is the string `<policy_id>.<name>.json`.
-
-In the folder `images`, an image is listed for each token that should be traded.
-This is required so that an image can be displayed for the token on the website.
-The name of the file is the string `<policy_id>.<name>.png`.
-
-### Contents of the listing file
 
 | Field | Description | Example |
 | ----- | ----------- | ------- |
@@ -35,6 +32,19 @@ The name of the file is the string `<policy_id>.<name>.png`.
 | `totalSupply` | The total minted amount of the token | `100000000` |
 | `amounts` | A list of integers of the trade size options |`[1000, 5000, 10000]` |
 | `decimalPlaces` | The number of decimal places when displaying the token. | ADA has 6 decimal places. 1 token = 1 Lovelace = 0.000001 ADA, displayed as "6 zeroes" |
+
+### Images
+
+In the folder `images`, an image is listed for each token that should be traded.
+This is required so that an image can be displayed for the token on the website.
+The name of the file is the string `<policy_id>.<name>.png`.
+
+### Payment
+
+The payment address is [addr1vysu7s7uvdr09w7mz8uz7mj4pw8qp57rja58jlfpag7zzsqq49n6f](https://cardanoscan.io/address/6121cf43dc6346f2bbdb11f82f6e550b8e00d3c39768797d21ea3c2140)  
+The verification can only be completed once we receive the payment.
+
+### Example  
 
 See [tokens/8f52f6a88acf6127bc4758a16b6047afc4da7887feae121ec217b75a.SNOW.json](tokens/8f52f6a88acf6127bc4758a16b6047afc4da7887feae121ec217b75a.SNOW.json) for an example file.
 Also check the token on [cardanoscan.io](https://cardanoscan.io/token/8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b) if you are unsure about some values.
