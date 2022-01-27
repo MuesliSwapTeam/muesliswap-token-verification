@@ -13,7 +13,7 @@ Submit a Pull Request to this repository that that adds three things:
 
 📄 A correct JSON token description in the [tokens](tokens) folder  
 🖼️ An image for the token in the [images](images) folder.  
-💸 A comment, with the transaction id showing you submitted 50 ADA to the [Payment address](addr1vysu7s7uvdr09w7mz8uz7mj4pw8qp57rja58jlfpag7zzsqq49n6f)
+💸 A comment, with the transaction id showing you submitted 50 ADA to the [payment address](https://cardanoscan.io/address/6121cf43dc6346f2bbdb11f82f6e550b8e00d3c39768797d21ea3c2140)
 
 
 ### JSON token description
