@@ -6,7 +6,7 @@ Being verified will get your token listed in the [featured section](https://ada.
 ## Fees
 Using the Community section, it is possible to trade **any** token on Cardano **without** being verified.  
 However, verification will give you more visibility and increase the trust of the community.  
-To account for processing each verifiaction manually and to prevent people from spamming request we require a verification fee of **50 ADA**. 
+To account for processing each verification manually and to prevent people from spamming requests we require a verification fee of **50 ADA**. 
 
 ## How can I get verified?
 Submit a Pull Request to this repository that that adds three things: 
