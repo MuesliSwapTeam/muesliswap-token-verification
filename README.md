@@ -13,7 +13,7 @@ Submit a Pull Request to this repository that that adds three things:
 
 📄 A correct JSON token description in the [tokens](tokens) folder  
 🖼️ An image for the token in the [images](images) folder.  
-💸 A comment, with the transaction id showing you submitted 50 ADA to the [payment address](https://cardanoscan.io/address/6121cf43dc6346f2bbdb11f82f6e550b8e00d3c39768797d21ea3c2140)
+💸 A comment, with the transaction id showing you submitted 50 ADA to the [payment address](https://cardanoscan.io/address/01deb0dfa55b77e1d9d5ccc3168fad7fdf471a8b9326f026a1ed43908c495455e8f4d0042e077c25be5f30157249c9c4d57cae732d555ef105)
 
 
 ### JSON token description
@@ -41,7 +41,7 @@ The name of the file is the string `<policy_id>.<name>.png`.
 
 ### Payment
 
-The payment address is [addr1vysu7s7uvdr09w7mz8uz7mj4pw8qp57rja58jlfpag7zzsqq49n6f](https://cardanoscan.io/address/6121cf43dc6346f2bbdb11f82f6e550b8e00d3c39768797d21ea3c2140)  
+The payment address is [addr1q80tpha9tdm7rkw4enp3drad0l05wx5tjvn0qf4pa4peprzf23273axsqshqwlp9he0nq9tjf8yuf4tu4eej64277yzskzqlf2](https://cardanoscan.io/address/01deb0dfa55b77e1d9d5ccc3168fad7fdf471a8b9326f026a1ed43908c495455e8f4d0042e077c25be5f30157249c9c4d57cae732d555ef105)  
 The verification can only be completed once we receive the payment.
 
 ### Example  
