@@ -1,6 +1,7 @@
 # MuesliSwap Token Verification 🪙✔
 
 The official repository to verify your token @ AdaMuesliSwap  
+Please also read the corresponding section in our [documentation](https://docs.muesliswap.com/cardano/community-tokens/token-verification).
 
 ## Fees
 Using the Community section, it is possible to trade **any** token on Cardano **without** being verified.  
