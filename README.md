@@ -1,7 +1,6 @@
 # MuesliSwap Token Verification 🪙✔
 
 The official repository to verify your token @ AdaMuesliSwap  
-Being verified will get your token listed in the [featured section](https://ada.muesliswap.com/markets/featured) of Muesliswap.
 
 ## Fees
 Using the Community section, it is possible to trade **any** token on Cardano **without** being verified.  
