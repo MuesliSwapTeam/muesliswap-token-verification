@@ -14,7 +14,15 @@ Submit a Pull Request to this repository that that adds three things:
 📄 A correct JSON token description in the [tokens](tokens) folder  
 🖼️ An image for the token in the [images](images) folder.  
 💸 A comment, with the transaction id showing you submitted 50 ADA to the [payment address](https://cardanoscan.io/address/01deb0dfa55b77e1d9d5ccc3168fad7fdf471a8b9326f026a1ed43908c495455e8f4d0042e077c25be5f30157249c9c4d57cae732d555ef105)
-
+  
+Note that there are specific minimum requirements to get verified, such as:  
+  
+🌐 A website  
+📝 A token description   
+📊 Tokenomics  
+✉️ Contact information (e.g., twitter, email)  
+  
+If you do not know how to implement these, check our MILK token or contact us.  
 
 ### JSON token description
 
