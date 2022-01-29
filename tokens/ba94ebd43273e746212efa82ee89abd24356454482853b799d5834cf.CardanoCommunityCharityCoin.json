@@ -1,0 +1,10 @@
+{
+    "policyId": "ba94ebd43273e746212efa82ee89abd24356454482853b799d5834cf",
+    "name": "Cardano Community Charity Coin",
+    "symbol": "CCCC",
+    "website": "https://ccccoin.io",
+    "description": "CCCC is designed to dissuade dumps via an expressive fee structure that rewards holders for not selling. This is essential to fulfill the role of long term, high yield savings in the Cardano Ecosystem. As the community grows and evolves, we will make charitable donations for the progression of decentralizded blockchain technology.",
+    "totalSupply": 1000000000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000]
+     "decimalPlaces": 6
+}
