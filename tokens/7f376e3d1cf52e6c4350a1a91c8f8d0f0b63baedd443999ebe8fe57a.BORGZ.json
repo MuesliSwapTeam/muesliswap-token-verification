@@ -1,0 +1,9 @@
+{
+    "policyId": "7f376e3d1cf52e6c4350a1a91c8f8d0f0b63baedd443999ebe8fe57a",
+    "name": "BORGZ",
+    "symbol": "BORGZ",
+    "website": "https://battleborgz.com",
+    "description": "BORGZ is the play to earn token for the Battle Borgz game.",
+    "totalSupply": 1000000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 1000000000]
+}
