@@ -1,0 +1,26 @@
+{
+    "policyId": "37b47fcaeb067582eb0b4230632633adffa7753481139b67cc8fe3ce",
+    "name": "PERNIS", 
+    "symbol": "PERNIS", 
+    "website": "https://pernis.io/", 
+    "description": "Purpose driven memecoin on Cardano supporting bird conservation.",
+    "totalSupply": 1000000000,
+    "amounts": [
+	100,
+	200,
+	500,
+        1000,
+        2000,
+        5000,
+        10000,
+        20000,
+	50000,
+        100000,
+        200000,
+        500000,
+        1000000,
+        2000000,
+        5000000,
+        10000000
+    ]
+}
