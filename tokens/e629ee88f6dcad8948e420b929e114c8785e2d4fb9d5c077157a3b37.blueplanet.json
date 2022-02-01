@@ -1,0 +1,15 @@
+{
+    "policyId": "e629ee88f6dcad8948e420b929e114c8785e2d4fb9d5c077157a3b37",
+    "name": "Blue Planet Token",
+    "symbol": "BLUP",
+    "website": "https://blueplanet-blup.com",
+    "description": "BluePlanet is a Non Profit Organisation, we want to become the Nr. 1 Blockchain platform for saving the environment",
+    "totalSupply": 8000000000,
+    "amounts": [1, 5, 10, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 5000, 10000, 200000]
+    "decimalPlaces": 6
+}
+
+
+# 40% of Total Supply is for the Project. 60% for circulating
+# TransactionID for 50ADA Payment: e5ef1395dae744e18e640c7d5ab272b9b493cb3d193b42b5b06cf76629f2d4e4
+# info@blueplanet-blup.com
