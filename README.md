@@ -22,7 +22,8 @@ Note that there are specific minimum requirements to get verified, such as:
 📊 Tokenomics  
 ✉️ Contact information (e.g., twitter, email)  
   
-If you do not know how to implement these, check our MILK token or contact us.  
+Please make sure that your policy id is somewhere on your website!  
+If you do not know how to implement these requirements, check our MILK token or contact us.  
 
 ### JSON token description
 
