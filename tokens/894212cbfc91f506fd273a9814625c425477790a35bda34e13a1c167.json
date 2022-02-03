@@ -1,0 +1,9 @@
+{
+    "policyId": "894212cbfc91f506fd273a9814625c425477790a35bda34e13a1c167",
+    "name": "TAX Asset",
+    "symbol": "TAX",
+    "website": "https://twitter.com/GabrielMazzant3",
+    "description": "Rare Asset",
+    "totalSupply": 100000,
+    "amounts": [1, 2, 5, 10, 20, 50, 100, 1000, 10000, 20000, 50000]
+}
