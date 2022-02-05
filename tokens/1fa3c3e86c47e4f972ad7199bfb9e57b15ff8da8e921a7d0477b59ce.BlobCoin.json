@@ -1,0 +1,9 @@
+{
+    "policyId": "1fa3c3e86c47e4f972ad7199bfb9e57b15ff8da8e921a7d0477b59ce",
+    "name": "BlobCoin",
+    "symbol": "Blob",
+    "website": "https://blob-coin.com/",
+    "description": "A Coin for the Thready Community, by the Thready Community",
+    "totalSupply": 10000000001,
+    "amounts": [100000, 1000000, 10000000, 100000000, 1000000000]
+}

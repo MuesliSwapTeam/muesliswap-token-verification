@@ -1,0 +1,9 @@
+{
+	"policyId": "a3bbcab3c60de005248e10c8ef07b2ce0c1d8a5805c6214feeb4b6ce",
+	"name": "HANDZ",
+	"symbol": "HANDZ",
+	"website": "https://www.handz-gang.io/",
+	"description": "Handz NFT Game-driven Project! ‍Take part in our upcoming mini-game for chance to earn unique NFTs and crypto Combine NFTs to create unique 'Double Handz",
+	"totalSupply": 1000000,
+	"amounts": [100, 500, 1000]
+}
