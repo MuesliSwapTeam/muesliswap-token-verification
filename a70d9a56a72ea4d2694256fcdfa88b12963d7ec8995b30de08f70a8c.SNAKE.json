@@ -1,0 +1,31 @@
+{
+    "policyId": "a70d9a56a72ea4d2694256fcdfa88b12963d7ec8995b30de08f70a8c",
+    "name": "SNAKE", 
+    "symbol": "SNK", 
+    "website": "https://snakesoflondon.com/", 
+    "description": "Enables easy access to dark web services.",
+    "totalSupply": 41000000,
+    "amounts": [
+	10,
+	25,
+	50,
+	100,
+	200,
+	500,
+        1000,
+        2000,
+        5000,
+        10000,
+        20000,
+	50000,
+        100000,
+        200000,
+        500000,
+        1000000,
+        2000000,
+        5000000,
+        10000000
+		
+		"decimalPlaces": 6
+    ]
+}
