@@ -51,7 +51,8 @@ The name of the file is the string `<policy_id>.<name>.png`.
 ### Payment
 
 The payment address is [addr1q80tpha9tdm7rkw4enp3drad0l05wx5tjvn0qf4pa4peprzf23273axsqshqwlp9he0nq9tjf8yuf4tu4eej64277yzskzqlf2](https://cardanoscan.io/address/01deb0dfa55b77e1d9d5ccc3168fad7fdf471a8b9326f026a1ed43908c495455e8f4d0042e077c25be5f30157249c9c4d57cae732d555ef105)  
-The verification can only be completed once we receive the payment.
+we can only complete the verification once we receive the payment. 
+Please include a message with your token name or other identifying information in your transaction. 
 
 ### Example  
 
