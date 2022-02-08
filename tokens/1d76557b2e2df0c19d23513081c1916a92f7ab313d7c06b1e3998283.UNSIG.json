@@ -1,0 +1,20 @@
+{
+    "policyId": "1d76557b2e2df0c19d23513081c1916a92f7ab313d7c06b1e3998283",
+    "name": "unsigned_token", 
+    "symbol": "UNSIG", 
+    "website": "https://www.unsigs.com", 
+    "description": "First piece from the creator of unsigned_algorithms next collection. Fractionally owned by 31,119, will be used in the minting of the rest of the collection",
+    "totalSupply": 31119,
+    "amounts": [
+	1,
+	2,
+	5,
+        10,
+        25,
+        50,
+        100,
+        250,
+	500,
+        1000
+    ]
+}
