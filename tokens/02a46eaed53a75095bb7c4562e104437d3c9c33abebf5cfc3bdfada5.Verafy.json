@@ -1,0 +1,9 @@
+{
+    "policyId": "https://mail.google.com/mail/u/0/#inbox/FMfcgzGmtrHqGXLDvMrKcdDZnpmjsvCL",
+    "name": "VERA",
+    "symbol": "VERA",
+    "website": "https://verafy.io ",
+    "description": "The Official Verafy Token",
+    "totalSupply": 50000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
