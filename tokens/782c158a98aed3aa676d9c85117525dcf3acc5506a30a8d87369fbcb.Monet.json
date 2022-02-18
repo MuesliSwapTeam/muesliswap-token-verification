@@ -1,0 +1,10 @@
+{
+    "policyId": "782c158a98aed3aa676d9c85117525dcf3acc5506a30a8d87369fbcb",
+    "name": "Monet",
+    "symbol": "MONET",
+    "website": "https://www.monetsociety.io",
+    "description": "Utility token of value and priceless quantum of creative energy.",
+    "totalSupply": 10000000000,
+    "decimalPlaces": 6,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000]
+}
