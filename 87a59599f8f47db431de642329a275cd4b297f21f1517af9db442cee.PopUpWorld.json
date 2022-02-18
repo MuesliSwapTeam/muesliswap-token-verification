@@ -1,0 +1,10 @@
+{
+    "policyId": "87a59599f8f47db431de642329a275cd4b297f21f1517af9db442cee",
+    "name": "PopUpWorld",
+    "symbol": "PUW",
+    "website": "https://www.popupworld.co.uk/popupworldtoken",
+    "description": "Pop Up World Token - Introducing the PopUpWorld (PUW) Token
+A Cryptocurrency Token for Entrepreneurs.",
+    "totalSupply": 77776000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000]
+}
