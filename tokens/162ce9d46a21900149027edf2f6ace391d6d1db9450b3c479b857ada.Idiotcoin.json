@@ -1,0 +1,10 @@
+{
+    "policyId": "162ce9d46a21900149027edf2f6ace391d6d1db9450b3c479b857ada",
+    "name": "Idiotcoin",
+    "symbol": "IDIOT",
+    "website": "https://spatulabros.io",
+    "description": "A currency by idiots, for idiots.",
+    "totalSupply": 69420000000000,
+    "amounts": [1000000, 10000000, 100000000, 250000000, 500000000, 750000000, 1000000000, 10000000000, 100000000000],
+    "decimalPlaces" : 0
+}

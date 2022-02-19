@@ -1,0 +1,9 @@
+{
+    "policyId": "6787a47e9f73efe4002d763337140da27afa8eb9a39413d2c39d4286",
+    "name": "RAD",
+    "symbol": "RAD",
+    "website": "https://cardania.com/",
+    "description": "RAD tokens are the native currency of Cardania",
+    "totalSupply": 90000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}

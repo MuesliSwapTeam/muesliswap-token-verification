@@ -1,7 +1,7 @@
 {
     "policyId": "d01794c4604f3c0e544c537bb1f4268c0e81f45880c00c09ebe4b4a7",
-    "name": "Mystery Token",
-    "symbol": "MYST",
+    "name": "MYST",
+    "symbol": "Mystery Token",
     "website": "https://www.myst-token.com",
     "description": "The most enigmatic token on the Cardano blockchain",
     "totalSupply": 100000000,

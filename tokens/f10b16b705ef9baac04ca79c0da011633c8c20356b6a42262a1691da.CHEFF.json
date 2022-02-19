@@ -1,0 +1,10 @@
+{
+    "policyId": "f10b16b705ef9baac04ca79c0da011633c8c20356b6a42262a1691da",
+    "name": "CHEFF",
+    "symbol": "CHEFF",
+    "website": "https://www.cheffpool.com",
+    "description": "CHEFF is a development staking pool and this token is a reward for play 2 earn games and stake delegators",
+    "totalSupply": 1000000000,
+    "amounts": [100, 1000, 50000, 100000, 1000000, 10000000, 100000000]
+    "decimalPlaces": 0
+}

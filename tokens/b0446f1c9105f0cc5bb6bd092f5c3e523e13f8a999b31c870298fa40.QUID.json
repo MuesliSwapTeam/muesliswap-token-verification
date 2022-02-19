@@ -1,0 +1,10 @@
+{
+  "policyId": "b0446f1c9105f0cc5bb6bd092f5c3e523e13f8a999b31c870298fa40",
+  "name": "QUID",
+  "symbol": "QUID",
+  "website": "https://spacetokens.io",
+  "description": "Quasi Universal Interplanetary Denomination - QUID is the main utility token used by the Space Tokens Metaverse.",
+  "totalSupply": 450000000,
+  "amounts": [400, 800, 1600, 3200, 6400, 12800, 25600, 51200, 102400],
+  "decimalPlaces": 0
+}
