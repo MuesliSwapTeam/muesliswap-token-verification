@@ -1,0 +1,10 @@
+{
+    "policyId":"d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed",
+    "name": "RAT",
+    "symbol":"RAT",
+    "website":"https://ratsdao.io",
+    "description":"The official token of Rats DAO.",
+    "totalSupply":100000000,
+    "amounts":[1,2,5,10,20,50,75,100,200,500,750,1000,2000,2500,5000,7500,10000,15000,20000],
+    "decimalPlaces":6
+}
