@@ -1,0 +1,9 @@
+{
+    "policyId": "25e6b5d28054fb238cb6215d106ad17a8f673dbaee6d7f2cade6bcdb",
+    "name": "GoldWarriorMask",
+    "symbol": "Gold Mask",
+    "website": "www.worldofwarriorstoken.com",
+    "description": "Warriors are here",
+    "totalSupply":  3000000000000 ,
+    "amounts": [3000, 30000, 300000, 3000000, 30000000, 300000000, 3000000000, 30000000000, 300000000000, 3000000000000]
+}
