@@ -1,0 +1,9 @@
+{
+    "policyId": "02a46eaed53a75095bb7c4562e104437d3c9c33abebf5cfc3bdfada5",
+    "name": "VERA",
+    "symbol": "VERA",
+    "website": "https://verafy.io ",
+    "description": "The Official Verafy Token",
+    "totalSupply": 50000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
