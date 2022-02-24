@@ -1,0 +1,10 @@
+{
+    "policyId":"5b01968867e13432afaa2f814e1d15e332d6cd0aa77e350972b0967d",
+    "name": "ADAOGovernanceToken",
+    "symbol":"ADAO",
+    "website":"https://www.theadao.io/",
+    "description":"The official governance token of ADAO.",
+    "totalSupply":100000000,
+    "amounts":[1,2,5,10,20,50,75,100,200,500,750,1000,2000,2500,5000,7500,10000,15000,20000],
+    "decimalPlaces":0
+}
