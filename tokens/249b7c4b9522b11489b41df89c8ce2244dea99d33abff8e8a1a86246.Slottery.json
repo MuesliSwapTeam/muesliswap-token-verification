@@ -3,5 +3,6 @@
     "name": "Slottery",
     "symbol": "Slottery",
     "totalSupply": 7777777,
+    "decimalPlaces": 0,
     "amounts": [1, 5, 10, 100, 1000, 10000]
 }
