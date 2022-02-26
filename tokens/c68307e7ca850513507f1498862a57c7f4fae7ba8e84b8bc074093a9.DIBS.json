@@ -1,0 +1,10 @@
+{
+    "policyId": "c68307e7ca850513507f1498862a57c7f4fae7ba8e84b8bc074093a9",
+    "name": "DIBS",
+    "symbol": "DIBS",
+    "website": "https://dibsgame.com/",
+    "description": "DIBS is the official token of the NFT Dibs Game™ at the Cardano Blockchain.",
+    "totalSupply": 100000000000,
+    "amounts": [100000, 200000, 500000, 1000000, 2000000, 3000000, 4000000, 5000000, 10000000]
+    "decimalPlaces": 0
+}
