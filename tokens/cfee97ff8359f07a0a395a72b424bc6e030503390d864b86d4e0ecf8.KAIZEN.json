@@ -1,0 +1,9 @@
+{
+	"policyId": "cfee97ff8359f07a0a395a72b424bc6e030503390d864b86d4e0ecf8",
+	"name": "KAIZEN",
+	"symbol": "KAIZEN",
+	"website": "https://lovelacesaga.com/",
+	"description": "Adventure awaits as the battle for the crypto space unfolds. Lovelace Saga is a Cardano NFT gaming platform powered by Kaizen Crypto. Level up and earn rewards in this play to earn blockchain game. Kaizen tokens serve as a utility token which will be used to purchase in-game items, limited edition NFTs, and governance of future game developments.",
+	"totalSupply": 100000000,
+	"amounts": [0.25, 0.5, 1, 10, 25, 50, 100, 250, 500, 1000]
+}
