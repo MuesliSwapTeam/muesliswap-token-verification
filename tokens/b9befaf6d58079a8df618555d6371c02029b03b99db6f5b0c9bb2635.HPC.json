@@ -1,0 +1,9 @@
+{
+    "policyId": "b9befaf6d58079a8df618555d6371c02029b03b99db6f5b0c9bb2635",
+    "name": "Horror_Program Currency",
+    "symbol": "HPC",
+    "website": "https://621b99ece18a6.site123.me ",
+    "description": "The Official Horror_Program Currency Token",
+    "totalSupply": 9223372036854775807,
+    "amounts": [1000000000000, 10000000000000, 100000000000000]
+}
