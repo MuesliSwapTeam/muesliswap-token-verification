@@ -1,0 +1,10 @@
+{
+    "policyId": "f28f457472e539dc75e1598a2beddf49ce5a717998c708f05f5de610",
+    "name": "Defenders Silver",
+    "symbol": "DEFS",
+    "website": "https://cryptodefenders.app/",
+    "description": "Defenders Silver is used in the Cardano NFT game crypto defenders for unique rewards, game ecosystem, and more.",
+    "totalSupply": 10000000,
+    "amounts": [25, 100, 500, 1000, 10000],
+    "decimalPlaces": 0
+}
