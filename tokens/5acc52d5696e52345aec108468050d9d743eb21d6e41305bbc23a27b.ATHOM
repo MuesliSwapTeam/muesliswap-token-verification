@@ -1,0 +1,9 @@
+{
+    "policyId": "5acc52d5696e52345aec108468050d9d743eb21d6e41305bbc23a27b",
+    "name": "ATHOM",
+    "symbol": "$athom",
+    "website": "https://ne0.xtz./athom/",
+    "description": "Smallest Cardano Native Token",
+    "totalSupply": 9223372036854775807,
+    "amounts": [1000000, 1000000000, 1000000000000]
+}
