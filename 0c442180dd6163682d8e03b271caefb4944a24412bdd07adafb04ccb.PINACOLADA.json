@@ -1,0 +1,10 @@
+{
+    "policyId": "0c442180dd6163682d8e03b271caefb4944a24412bdd07adafb04ccb",
+    "name": "PINACOLADA",
+    "symbol": "PINACOLADA",
+    "website": "https://cardabbean.io/",
+    "description": "PINACOLADA is the official crypto currency of the Cardabbean Islands Metaverse.",
+    "totalSupply": 1000000000000,
+    "amounts": [100000, 250000, 500000, 1000000, 2000000, 5000000, 10000000]
+    "decimalPlaces": 0
+}
