@@ -1,0 +1,9 @@
+{
+    "policyId": "437d6682fd33e6d26ff6437ef5fc2f9655d3c3b33637fb69dbd767be",
+    "name": "BrandSensed",
+    "symbol": "BRND",
+    "website": "https://brandsensed.com",
+    "description": "A token to reward brand discovery and loyalty.",
+    "totalSupply": 21000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000]
+}
