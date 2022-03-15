@@ -3,7 +3,7 @@
     "name": "ATHOM",
     "symbol": "$athom",
     "website": "https://athom.ne0.xyz",
-    "description": "Smallest Cardano Native Token",
+    "description": "Fundamental Cardano Token",
     "totalSupply": 9223372036854775807,
-    "amounts": [1000000, 1000000000, 1000000000000]
+    "amounts": [1000000000, 1000000000000, 100000000000000, 1000000000000000, 10000000000000000]
 }
