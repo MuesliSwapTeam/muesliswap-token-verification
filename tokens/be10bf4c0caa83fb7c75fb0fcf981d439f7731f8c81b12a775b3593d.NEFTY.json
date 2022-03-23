@@ -1,0 +1,9 @@
+{
+    "policyId": "be10bf4c0caa83fb7c75fb0fcf981d439f7731f8c81b12a775b3593d",
+    "name": "NEFTY",
+    "symbol": "NEFTY",
+    "website": "https://neftylabs.com",
+    "description": "NEFTY token is the utility token used across multiple platforms developed by NeftyLabs.",
+    "totalSupply": 1000000000,
+    "amounts": [100, 500, 1000, 2000, 5000, 10000, 25000, 50000, 100000, 500000, 1000000]
+}

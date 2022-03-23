@@ -1,0 +1,10 @@
+{
+  "policyId": "3cbb2431cbb99954e2a2d6bda793f8d9bffa0150dc37f89db6676a2c",
+  "name": "Pool Kash",
+  "symbol": "POOL",
+  "website": "https://kashpool.io/",
+  "description": "POOL token was created to award early delegates to the Kash Stake Pool",
+  "totalSupply": 1000000000,
+  "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000]
+  "decimalPlaces": 0
+}
