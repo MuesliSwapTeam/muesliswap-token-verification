@@ -1,9 +1,0 @@
-{
-    "policyId": "133fac9e153194428eb0919be39837b42b9e977fc7298f3ff1b76ef9",
-    "name": "PUDGY",
-    "symbol": "PUDGY",
-    "website": "https://pudgycat.io",
-    "description": "In a world riddled with dogs, lobsters, apes, penguins and llamas, running amok among bulls and bears, Pudgy gives back the Cryptoverse to its lawful rulers: Cats.",
-    "totalSupply": 1000000000000000,
-    "amounts": [1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000, 10000000000, 100000000000, 1000000000000]
-}

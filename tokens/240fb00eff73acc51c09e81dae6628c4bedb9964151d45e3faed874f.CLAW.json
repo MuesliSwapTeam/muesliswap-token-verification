@@ -1,9 +1,0 @@
-{
-    "policyId": "240fb00eff73acc51c09e81dae6628c4bedb9964151d45e3faed874f",
-    "name": "CLAW",
-    "symbol": "$CLAW",
-    "website": "https://bwpc.io/",
-    "description": "The official token for ClawDAO created by BWPC",
-    "totalSupply": 3000000000,
-    "amounts": [1, 10, 100, 1000, 10000, 100000]
-}

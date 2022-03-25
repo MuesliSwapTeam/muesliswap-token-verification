@@ -1,9 +1,0 @@
-{
-    "policyId": "5029eeccd52fef299509d509a8318fd7930c3dffcce1f9f39ff11ef9",
-    "name": "FabianGamerCoin",
-    "symbol": "FGC",
-    "website": "https://fabiangamer.com",
-    "description": "FabianGamerCoin (FGC) is a funny bond between young gamers and Cardano Native Tokens (both FT & cNFT). FGC was formerly created for educational purposes, marketing and sponsoring, but we are also exploring the benefits of the blockchain and cryptocurrency in the development of profit/non-profit organizations (Star-Up & Small and Medium-Sized enterprises (SMEs), as well as their use in trading of goods and services.",
-    "totalSupply": 100000000,
-    "amounts": [1, 10, 50, 100, 250, 500, 1000, 10000, 100000]
-}

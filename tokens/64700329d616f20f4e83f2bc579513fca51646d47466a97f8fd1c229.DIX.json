@@ -1,9 +1,0 @@
-{
-    "policyId": "64700329d616f20f4e83f2bc579513fca51646d47466a97f8fd1c229",
-    "name": "DIX",
-    "symbol": "DIX",
-    "website": "https://www.mateland.io/",
-    "description": "Here you get to know about the community currency DIX of the Playmate Society. This community currency will exist on Cardano-Blockchain. After launch of our community exclusive boutique you will be able to buy stuff like items, badges, shirts, caps, pens, etc. with DIX. And you can use it in MATELAND the Metaverse of pleasure to buy items and many more.",
-    "totalSupply": 33000000,
-    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000]
-}

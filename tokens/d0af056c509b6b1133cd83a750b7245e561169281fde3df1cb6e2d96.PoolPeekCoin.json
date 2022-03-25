@@ -1,9 +1,0 @@
-{
-    "policyId": "d0af056c509b6b1133cd83a750b7245e561169281fde3df1cb6e2d96",
-    "name": "PoolPeekCoin",
-    "symbol": "PPC",
-    "website": "https://poolpeek.com/#/",
-    "description": "PoolPeek Coin is a rewards coin created to give back to loyal delegators whilst helping bootstrap hard working SPO's",
-    "totalSupply": 21000000,
-    "amounts": [1, 5, 10, 20, 25, 50, 100, 500, 1000, 10000]
-}

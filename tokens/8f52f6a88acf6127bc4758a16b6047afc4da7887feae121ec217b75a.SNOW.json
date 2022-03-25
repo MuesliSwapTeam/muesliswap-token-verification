@@ -1,9 +1,0 @@
-{
-    "policyId": "8f52f6a88acf6127bc4758a16b6047afc4da7887feae121ec217b75a",
-    "name": "SNOW",
-    "symbol": "SNOW",
-    "website": "https://muesliswap.com",
-    "description": "On the day of the launch of MuesliSwap for Cardano (AdaMuesliSwap), Switzerland had its first snow. To celebrate both the launch and the first snow of the year, we created a limited amount of special snow globes, that we give out to those that have beared with us for so long!",
-    "totalSupply": 1000000,
-    "amounts": [1, 10, 100, 1000, 10000, 100000]
-}
