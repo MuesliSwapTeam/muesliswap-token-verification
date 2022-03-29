@@ -6,4 +6,5 @@
 “description”: “Your Cardano Store of Value”,
 “totalSupply”: 1000000,
 “amounts”: [1, 2, 3, 4, 5, 10, 15, 20, 25, 30, 35, 40, 50, 100, 150, 200, 300, 400, 1000, 10000, 100000]
+"decimalplaces": 4,
 }
