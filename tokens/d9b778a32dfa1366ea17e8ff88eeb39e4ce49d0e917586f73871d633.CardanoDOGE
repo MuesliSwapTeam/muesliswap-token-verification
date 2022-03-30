@@ -1,0 +1,9 @@
+{
+    "policyId": "d9b778a32dfa1366ea17e8ff88eeb39e4ce49d0e917586f73871d633",
+    "name": "CardanoDOGE",
+    "symbol": "CDOGE",
+    "website": "https://www.cardanodoge.info/",
+    "description": "Cardano version of DOGE",
+    "totalSupply": 100000000,
+    "amounts": [10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000]
+}
