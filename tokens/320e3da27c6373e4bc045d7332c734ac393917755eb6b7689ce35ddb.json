@@ -1,0 +1,16 @@
+{
+   "policyId":"320e3da27c6373e4bc045d7332c734ac393917755eb6b7689ce35ddb",
+   "name":"PROPTECA",
+   "symbol":"PTECA",
+   "website":"https://Propteca.com",
+   "description":"We are here to bring the best technology to the Mexican Real Estate Market",
+   "totalSupply":21000000000,
+   "amounts":[
+      1,
+      10,
+      100,
+      1000,
+      10000,
+      100000
+   ]
+}
