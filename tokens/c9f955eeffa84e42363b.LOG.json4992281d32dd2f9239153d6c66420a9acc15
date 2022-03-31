@@ -1,0 +1,10 @@
+{
+    "policyId": "c9f955eeffa84e42363b4992281d32dd2f9239153d6c66420a9acc15",
+    "name": "Life Log Token",
+    "symbol": "LOG",
+    "website": "https://life-log.io",
+    "description": "Life Log Token is created for use in the Cardano metaverse.",
+    "totalSupply": 1000000000,
+    "decimalPlaces": 6,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000]
+}
