@@ -1,0 +1,26 @@
+{
+    "policyId": "0171c997b8853fde686763d93b36ab8e04ce947bb6aa09a9ee5c4401",
+    "name": "TOKEN", 
+    "symbol": "TOKEN", 
+    "website": "https://fungibletoken.stakepool.cc", 
+    "description": "Allocation and distribution at https://dripdropz.io/explore-projects/TOKEN",
+    "totalSupply": 45000000000,
+    "amounts": [
+    	1,
+    	2,
+    	5,
+        10,
+        20,
+        50,
+        100,
+        200,
+    	500,
+        1000,
+        10000,
+        100000,
+        1000000,
+        10000000,
+        100000000,
+        1000000000
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "policyId": "52c630bc4ad8823d1dddb729d47dd8991f50bb94ea700b6828d9180a",
+    "name": "$SHARD",
+    "symbol": "$SHARD",
+    "website": "https://emeralddao.io",
+    "description": "The official utility token of Emerald DAO",
+    "totalSupply": 13000000,
+    "amounts": [1, 2, 5, 10, 20, 25, 50, 100, 500, 1000, 5000, 10000],
+    "decimalPlaces": 6
+}

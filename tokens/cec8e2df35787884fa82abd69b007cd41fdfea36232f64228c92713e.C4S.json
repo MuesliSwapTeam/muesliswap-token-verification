@@ -1,0 +1,9 @@
+{
+    "policyId": "cec8e2df35787884fa82abd69b007cd41fdfea36232f64228c92713e",
+    "name": "CARdano4SPEED",
+    "symbol": "C4S",
+    "website": "https://www.cardano4speed.com/",
+    "description": "A true utility token throughout the CARdano4SPEED platform. Whether you want to fuel your car with NoS or go to the custom garage shop for makeover or just need access into paid races, you ll need C4S tokens.",
+    "totalSupply": 1000000000,
+    "amounts": [10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 5000, 10000, 20000, 40000, 50000,10000,20000,30000,40000,50000,60000,70000,80000,90000,100000]
+}
