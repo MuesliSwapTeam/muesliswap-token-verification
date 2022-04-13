@@ -1,0 +1,10 @@
+{
+“policyId”: “a5039068cb2b3ebcf874c0a4b012f19409befcf99e38c34c080af9d5”,
+“name”: “RhodiumCoin”,
+“symbol”: “RHOD”,
+“website”: “https://www.rhodiumcoin.net;,
+“description”: “A Rare, Hard, Unstoppable Force For Good!”,
+“totalSupply”: 1000000,
+“amounts”: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300, 350, 400, 450, 500, 600, 700, 800, 900, 1000, 1100, 1200, 1300, 1400, 1500, 1600, 1700, 1800, 1900, 2000]
+“decimalPlaces”: 6
+}
