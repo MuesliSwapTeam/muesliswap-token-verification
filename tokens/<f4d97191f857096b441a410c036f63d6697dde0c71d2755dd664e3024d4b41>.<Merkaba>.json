@@ -1,0 +1,10 @@
+{
+    "policyId": "f4d97191f857096b441a410c036f63d6697dde0c71d2755dd664e3024d4b41",
+    "name": "MERKABA",
+    "symbol": "$MKA",
+    "website": "https://merkaba-token.io/",
+    "description": "Hemp innovations core currency on a sustainable ecosystem.",
+    "totalSupply": 42000000000000,
+    "amounts": [1, 420, 1000, 10000, 100000, 250000, 420000, 500000, 1000000, 2000000, 3000000, 4000000, 5000000, 6000000, 7000000, 8000000, 9000000, 10000000],
+    "decimalPlaces": 0
+}
