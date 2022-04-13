@@ -1,0 +1,10 @@
+{
+    "policyId": "89267e9a35153a419e1b8ffa23e511ac39ea4e3b00452e9d500f2982",
+    "name": "Cavalier King Charles token",
+    "symbol": "Charly",
+    "website": "https://www.charly-token.io/",
+    "description": "$Charly token is a meme coin on #Cardano blockchain to honor Charles Hoskinson. http://discord.gg/ArH9udyKTN",
+    "totalSupply": 777777777777,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000],
+    "decimalPlaces": 0
+}
