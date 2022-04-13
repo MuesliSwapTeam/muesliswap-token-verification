@@ -1,0 +1,9 @@
+{
+    "policyId": "ad1c1ed3a0bb6f83630ef052a31b71ba3287bf4bafa8370758f14d31",
+    "name": "Sick City",
+    "symbol": "SICK",
+    "website": "https://sickcity.xyz",
+    "description": "Sick City is an organic music promotion platform that distributes new music to it's users every epoch for next to nothing! The purpose of Sick City is to recognize and platform artists in the community by distributing their music to listeners all over the world and to provide a new way for listeners to collect and enjoy music!",
+    "totalSupply": 1000000000000,
+    "amounts": [100000, 250000, 500000, 1000000, 2000000, 5000000, 10000000, 50000000, 100000000]
+}
