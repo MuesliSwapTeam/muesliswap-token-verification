@@ -1,0 +1,10 @@
+{
+    "policyId": "2eb3e6eac64b7119f948b5529909e45a8e29c88563fa6a3deb78519c",
+    "name": "Hay",
+    "symbol": "Hay",
+    "website": "https://www.filthyrichhorses.com/",
+    "description": "$HAY works as a Cardano native asset within the Filthy Rich Horse ecosystem",
+    "totalSupply": 10000000,
+    "amounts": [50, 250, 500, 1000, 5000, 10000],
+    "decimalPlaces": 0
+}
