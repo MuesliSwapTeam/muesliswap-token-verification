@@ -1,0 +1,10 @@
+{
+  "policyId": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b939",
+  "name": "Cardano Crocs Club Coin",
+  "symbol": "C4",
+  "website": "https://cardanocrocsclub.com",
+  "description": "The utility token powering the Cardano Crocs Club ecosystem.",
+  "totalSupply": 14000000000,
+  "amounts": [1,5,10,50,100,500, 1000, 5000, 10000, 15000, 20000, 50000, 75000, 100000],
+  "decimalPlaces" : 0
+}
