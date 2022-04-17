@@ -1,0 +1,9 @@
+{
+    "policyId": "e98165a25cd0320b25f22d686268e58e66f855b6d85974947ccd708d",
+    "name": "ADAFOX",
+    "symbol": "ADAFOX",
+    "website": "https://adafox.io",
+    "description": "NFT Community",
+    "totalSupply": 10000000000,
+    "amounts": [1, 10, 100, 250, 500, 1000, 2500, 5000, 10000, 25000, 50000, 100000, 250000, 500000, 1000000, 2500000, 5000000, 10000000, 25000000, 50000000, 100000000]
+}
