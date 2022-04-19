@@ -1,0 +1,10 @@
+{
+    "policyId": "a1c1e3811c5adb591e026164a519eaf3d2708ee02e5712f891f80b78",
+    "name": "FAB",
+    "symbol": "FAB",
+    "website": "https://fabul.art",
+    "description": "The token for luxury and design NFTs of the metaverse",
+    "totalSupply": 10000000,
+    "amounts": [ 5, 10, 20, 30, 50, 75, 100, 150, 200, 300, 500, 750, 1000, 1500, 2000,  3000, 4000, 5000, 10000, 15000, 20000],
+    "decimalPlaces": 0
+}
