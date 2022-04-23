@@ -1,0 +1,9 @@
+{
+    "policyId": "89ee1f82a513be9de47853a3dc9f93e314dfec43e78148c896729e82",
+    "name": "BRICKZ",
+    "symbol": "BRICKZ",
+    "website": "https://adaheadz.io/",
+    "description": "The utility & governance token of the ADAHEADZ ecosystem.",
+    "totalSupply": 10000000,
+    "amounts": [10, 50, 100, 250, 500, 1000, 2500, 5000, 10000, 50000, 100000, 250000, 500000, 1000000]
+}
