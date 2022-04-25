@@ -1,0 +1,10 @@
+{
+    "policyId": "0fd9819a9d7fb414880883f43a42d33458f12bc5f9841cec6457dc15",
+    "name": "VIRUS",
+    "symbol": "VIRUS",
+    "website": "https://virusx.io",
+    "description": "Virus  meme coin, is a decentralized infected community on Cardano network.",
+    "totalSupply": 1000000000000,
+    "amounts": [1],
+    "decimalPlaces" : 0
+}
