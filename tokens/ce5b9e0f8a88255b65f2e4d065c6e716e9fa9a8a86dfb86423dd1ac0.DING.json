@@ -1,0 +1,10 @@
+{
+    "policyId": "ce5b9e0f8a88255b65f2e4d065c6e716e9fa9a8a86dfb86423dd1ac0",
+    "name": "DING",
+    "symbol": "DING",
+    "website": "https://getding.gg",
+    "description": "The governance & utility token of the DEADPXLZ ecosystem.",
+    "totalSupply": 1000000000,
+    "amounts": [1, 5, 10, 20, 30, 40, 50, 100, 200, 300, 400, 500, 1000, 2000, 3000, 4000, 5000, 10000, 20000, 30000, 40000, 50000, 100000],
+    "decimalPlaces": 6
+}
