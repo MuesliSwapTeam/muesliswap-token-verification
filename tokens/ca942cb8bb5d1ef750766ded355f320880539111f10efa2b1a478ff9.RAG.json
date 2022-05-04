@@ -1,0 +1,10 @@
+{
+	"policyId": "ca942cb8bb5d1ef750766ded355f320880539111f10efa2b1a478ff9",
+	"name": "RaggieCoin",
+	"symbol": "RAG",
+	"website": "https://cryptoraggies.io",
+	"description": "Official currency of CryptoRaggies metaverse",
+	"totalSupply": 100000000,
+	"amounts": [10, 100, 200, 500, 1000, 5000, 10000],
+	"decimalPlaces": 0
+}
