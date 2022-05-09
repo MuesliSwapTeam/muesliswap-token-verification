@@ -1,0 +1,17 @@
+{
+  "policyId": "52489ea87bbceaf6375cc22f74c19382a3d5da3f8b9b15d2537044b9",
+  "name": "PROSPERIA",
+  "symbol": "PRSPR",
+  "website": "https://www.prosperia.space/",
+  "description": "The official utility coin of Prosperia - Your Sci-Fi world on Cardano",
+  "totalSupply": "92500000",
+  "amounts": [
+    50,
+    100,
+    500,
+    1000,
+    5000,
+    10000
+  ],
+  "decimals": 1
+}
