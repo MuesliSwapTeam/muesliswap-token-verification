@@ -1,0 +1,10 @@
+{
+    "policyId": "59eccbbd4cdf738e6272ccabfbb6d1c02f6335ed4f860bfde4d53cb8",
+    "name": "GRAVY",
+    "symbol": "GRAVY",
+    "website": "https://gravypool.com/gravy",
+    "description": "GRAVY is gratitude! GRAVY adds richness, value and most importantly, flavor!",
+    "totalSupply": 100000000000,
+    "amounts": [10000, 50000, 100000, 500000, 1000000],
+    "decimalPlaces": 0
+}
