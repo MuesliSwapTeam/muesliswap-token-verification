@@ -12,7 +12,10 @@ However, verification will give you more visibility and increase the trust of th
 To account for processing each verification manually and to prevent people from spamming requests we require a verification fee of **50 ADA**. 
 
 ## How can I get verified?
-Submit a Pull Request to this repository that that adds three things: 
+You need to submit a pull request to this repository. If you don't know how to do that, no problem!  
+Please continue reading the next sections and follow our [tutorial](#tutorial) at the end.
+
+Your pull request needs to add three things: 
 
 📄 A correct JSON token description in the [tokens](tokens) folder  
 🖼️ An image for the token in the [images](images) folder.  
@@ -26,7 +29,8 @@ Note that there are specific minimum requirements to get verified, such as:
 ✉️ Contact information (e.g., twitter, email)  
   
 Please make sure that your policy id is somewhere on your website!  
-If you do not know how to implement these requirements, check our MILK token or contact us.  
+If you do not know how to implement these requirements, you can get some inspiration by looking at our [MILK token](https://docs.muesliswap.com/cardano/tokenomics/muesliswap-milk) or contact us.  
+
 
 ### JSON token description
 
@@ -61,3 +65,12 @@ Please include a message with your token name or other identifying information i
 
 See [tokens/8f52f6a88acf6127bc4758a16b6047afc4da7887feae121ec217b75a.SNOW.json](tokens/8f52f6a88acf6127bc4758a16b6047afc4da7887feae121ec217b75a.SNOW.json) for an example file.
 Also check the token on [cardanoscan.io](https://cardanoscan.io/token/8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b) if you are unsure about some values.
+
+
+## How can I submit a pull request?
+
+<img src="/tutorial/tutorial_part1.png" style="width:auto; height:500px" id="tutorial" >
+<img src="/tutorial/tutorial_part2.png" style="width:auto; height:500px">
+<img src="/tutorial/tutorial_part3.png" style="width:auto; height:500px">
+<img src="/tutorial/tutorial_part4.png" style="width:auto; height:500px">
+<img src="/tutorial/tutorial_part5.png" style="width:auto; height:500px">
