@@ -1,0 +1,10 @@
+{
+    "policyId": "1c1e38cfcc815d2015dbda6bee668b2e707ee3f9d038d96668fcf63c",
+    "name": "EggscapeClubEasterZenny",
+    "symbol": "EZY",
+    "website": "https://eggscape.io/",
+    "description": "Eggscape Club Utility Token",
+    "totalSupply": 10000000,
+    "currentSupply": 300,
+    "amounts": [1, 5, 10, 100, 1000, 10000]
+}
