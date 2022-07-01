@@ -1,0 +1,10 @@
+{
+    "policyId": "4623ab311b7d982d8d26fcbe1a9439ca56661aafcdcd8d8a0ef31fd6",
+    "name": "Greens",
+    "symbol": "GREENS",
+    "website": "https://virtuallymade.io/",
+    "description": "Greens - The fuel for Virtually Made's ecosystem.",
+    "totalSupply": 210000000,
+    "amounts": [1,2,5,10,20,50,75,100,200,500,750,1000,2000,2500,5000,7500,10000,15000,20000],
+    "decimals": 6
+}
