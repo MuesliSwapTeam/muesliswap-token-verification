@@ -1,0 +1,16 @@
+{
+    "policyId": "27eee19588c997ca54d3137f64afe55a18dfcf9062fa83a724bf2357",
+    "name": "HEXONIUM", 
+    "symbol": "HEXO", 
+    "website": "https://whitepaper.cardanolands.com/", 
+    "description": "Hexonium - in-game currency of Cardano Lands Universe",
+    "totalSupply": 1000000000,
+    "amounts": [
+    	  1,
+        10,
+        100,
+        1000,
+        10000,
+        100000,
+    ]
+}
