@@ -1,0 +1,16 @@
+{
+    "policyId": "048ee598172481f98d613fc9fb6a03fd6ec3edccb75f8e4afc993b66",
+    "name": "EXO", 
+    "symbol": "EXO", 
+    "website": "https://whitepaper.cardanolands.com/", 
+    "description": "Governance token of Cardano Lands Universe",
+    "totalSupply": 1000000000,
+    "amounts": [
+    	  1,
+        10,
+        100,
+        1000,
+        10000,
+        100000,
+    ]
+}
