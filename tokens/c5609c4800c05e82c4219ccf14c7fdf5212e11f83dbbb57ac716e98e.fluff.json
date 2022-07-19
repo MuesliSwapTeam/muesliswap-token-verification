@@ -1,0 +1,9 @@
+{
+    "policyId": "c5609c4800c05e82c4219ccf14c7fdf5212e11f83dbbb57ac716e98e",
+    "name": "fluff",
+    "symbol": "fluff",
+    "website": "https://tednation.com/",
+    "description": "The official Ted Nation currency",
+    "totalSupply": 50000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
