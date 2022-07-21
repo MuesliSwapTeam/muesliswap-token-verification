@@ -1,0 +1,10 @@
+{
+  "policyId": "e2087044f1a5028aec705eb05609370754d64587adbdc27eeb330058",
+  "name" : "TANG",
+  "symbol" : "TANG",
+  "website" : "https://tangent.art/",
+  "description" : "Tangent is a launchpad and farming platform for innovative NFTs backed by real world assets, and guided by the Tangent DAO. TANG is the governance token of Tangent.",
+  "totalSupply" : "3,141,592,650",
+  "amounts" : [1, 10, 50, 100, 500, 1000, 5000, 10000, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000],
+  "decimalPlaces" : "6",
+}
