@@ -1,0 +1,10 @@
+{
+    "policyId":"961f2cac0bb1967d74691af179350c1e1062c7298d1f7be1e4696e31",
+    "name": "$DERP",
+    "symbol":"$DERP",
+    "website":"https://derpbirds.io",
+    "description":"The official utility token of Derp Birds",
+    "totalSupply":100000000,
+    "amounts":[1,2,5,10,20,50,75,100,200,500,750,1000,2000,2500,5000,7500,10000,15000,20000],
+    "decimalPlaces":6
+}
