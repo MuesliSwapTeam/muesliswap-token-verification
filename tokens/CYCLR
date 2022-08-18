@@ -1,0 +1,10 @@
+{
+    "policyId": "f59e43506f8b05c1e31d4b7f6b7620b2e6bd05fe75b227b7f43c0b62",
+    "name": "CYCLR",
+    "symbol": "CYCLR",
+    "website": "https://www.w3ride.io/",
+    "description": "The reward token for W3:Ride Cycling Metaverse.",
+    "totalSupply": 3000000000000,
+    "amounts": [1,10, 50, 100, 250, 500, 1000, 2500, 5000, 10000, 50000, 100000, 250000, 500000, 1000000,10000000,50000000,100000000,250000000],
+    "decimalPlaces" : 6
+}
