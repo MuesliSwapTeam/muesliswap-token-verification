@@ -1,0 +1,10 @@
+{
+    "policyId": "2d420236ffaada336c21e3f4520b799f6e246d8618f2fc89a4907da6",
+    "name": "EduLadder Token",
+    "symbol": "ELADR",
+    "website": "https://eduladder.com",
+    "description": "Proof Of Contribution.",
+    "totalSupply": 45000000003.000000,
+    "amounts": [1,2,5,10,20,50,100,200,500,1000,10000,100000,1000000,10000000,100000000,1000000000],
+    "decimalPlaces":6
+}
