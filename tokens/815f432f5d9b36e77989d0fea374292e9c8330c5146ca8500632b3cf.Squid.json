@@ -1,0 +1,11 @@
+{
+  "policyId": "815f432f5d9b36e77989d0fea374292e9c8330c5146ca8500632b3cf",
+  "name": "Squid",
+  "symbol": "SQUID",
+  "website": "https://squidpool.com/",
+  "description": "Squid Pool token.",
+  "totalSupply": 10000000000,
+  "amounts": [100, 200, 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000],
+  "decimalPlaces": 0
+}
+
