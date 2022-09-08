@@ -1,0 +1,10 @@
+{
+  "policyId": "a8102151506a8a81dc1763ee05cdd01d787f50dfeb6f843071e1c6a0",
+  "name": "HOWI",
+  "symbol": "HOWI",
+  "website": "https://howijd.network",
+  "description": "Howijd.Network Utility Token",
+  "totalSupply": 45000000000,
+  "amounts": [10, 25, 50, 69, 75, 100, 200, 250, 500, 750, 1000, 5000, 10000, 25000, 50000, 75000, 100000, 250000, 500000, 750000, 1000000],
+  "decimalPlaces": 6
+}
