@@ -1,0 +1,11 @@
+{
+  "policyId": "aa2797739e4f4a1efd5346998febff59909e425b5fddb1b0ec4a24f8",
+  "name": "Lookz",
+  "symbol": "LOOKZ",
+  "website": "https://wyldlookz.com/",
+  "description": "Lookz token for WyldLookz CNFTs.",
+  "totalSupply": 10000000000,
+  "amounts": [100, 200, 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000],
+  "decimalPlaces": 0
+}
+

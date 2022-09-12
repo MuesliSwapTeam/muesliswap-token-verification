@@ -1,0 +1,10 @@
+{
+    "policyId": "5ec2e9813fa385d9333d18186d8257d1b3ebea97bdec2dad74026d8d",
+    "name": "Pugchip",
+    "symbol": "PUGCHIP",
+    "website": "https://realspacepugs.com/",
+    "description": "Pug Poker Chip will primarily be used to buy into all of our Pug Poker games, and can also be used for the rest of the Space Pugs Ecosystem.",
+    "totalSupply": 20000000,
+    "amounts": [100,1000,2000,3000,4000,5000,6000,7000,8000,9000,10000, 15000, 20000, 30000,40000,50000,60000,70000,80000,90000],
+    "decimalPlaces" : 0
+}
