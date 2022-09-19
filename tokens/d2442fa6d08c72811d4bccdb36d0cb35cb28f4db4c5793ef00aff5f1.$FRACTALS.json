@@ -1,0 +1,10 @@
+{
+    "policyId": "d2442fa6d08c72811d4bccdb36d0cb35cb28f4db4c5793ef00aff5f1",
+    "name": "$FRACTALS",
+    "symbol": "$FRACTALS",
+    "website": "https://fractalfuzion.com/?p=27",
+    "description": "$FRACTALS are a fractal reserve ₳d₳ ¢urren¢y token",
+    "totalSupply": 1000000000000000,
+    "amounts": [1],
+    "decimalPlaces" : 0
+}
