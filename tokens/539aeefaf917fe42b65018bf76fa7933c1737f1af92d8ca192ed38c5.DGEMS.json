@@ -1,0 +1,22 @@
+{
+    "policyId": "539aeefaf917fe42b65018bf76fa7933c1737f1af92d8ca192ed38c5",
+    "name": "Dango Gems", 
+    "symbol": "DGEMS", 
+    "website": "https://chibidangoheroes.com/dgems", 
+    "description": "Community token and in-game currency for Chibidango Heroes Universe",
+    "totalSupply": 1000000000,
+    "amounts": [
+        1,
+        2,
+        5,
+        10,
+        25,
+        50,
+        100,
+        250,
+	      500,
+        1000,
+        10000,
+        100000
+    ]
+}

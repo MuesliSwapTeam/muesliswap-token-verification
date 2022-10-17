@@ -1,0 +1,9 @@
+{
+    "policyId": "7c76fc6c7496acb811ca913b3f9f1a3e4a875d7d1f1b11b9676840ce",
+    "name": "The Token of St Jude",
+    "symbol": "JUDE",
+    "website": "https://cyphermonks.com",
+    "description": "The Token of St Jude (JUDE), is more than a token of function and use within the CypherMonk society. It is a token of tribute and memorial to Jude Milhon, St Jude, 'the patron saint' of hackers, cypherpunks, and well, of course CypherMonks everywhere.",
+    "totalSupply": 1000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}

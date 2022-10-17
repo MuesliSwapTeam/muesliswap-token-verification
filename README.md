@@ -46,8 +46,6 @@ The name of the file is the string `<policy_id>.<name>.json`.
 | `website` | Homepage of the corresponding token | `https://ada.muesliswap.com` |
 | `description` | A very short description of the token | `Your favorite pre-sale token, making you stronger` |
 | `totalSupply` | The total minted amount of the token | `100000000` |
-| `amounts` | A list of integers of the trade size options |`[1000, 5000, 10000]` |
-| `decimalPlaces` | The number of decimal places when displaying the token. | ADA has 6 decimal places. 1 token = 1 Lovelace = 0.000001 ADA, displayed as "6 zeroes" |
 
 ### Images
 

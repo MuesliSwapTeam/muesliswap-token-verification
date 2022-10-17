@@ -1,0 +1,10 @@
+{
+    "policyId":"984394dcc0b08ea12d72b8833292e3c3197d7a8ac89aad61d2f5aa9e",
+    "name": "EARTH token",
+    "symbol":"EARTH",
+    "website":"https://unbounded.earth",
+    "description":"$EARTH token for use within the Unbounded.Earth metaverse",
+    "totalSupply":3316000000,
+    "amounts":[1,2,5,10,20,50,75,100,200,500,750,1000,1500,2000,2500,5000,7500,10000,15000,20000,25000],
+    "decimalPlaces":6
+}
