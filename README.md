@@ -45,7 +45,6 @@ The name of the file is the string `<policy_id>.<name>.json`.
 | `symbol` | A trading symbol of the token | `MILK` or `CDOG` |
 | `website` | Homepage of the corresponding token | `https://ada.muesliswap.com` |
 | `description` | A very short description of the token | `Your favorite pre-sale token, making you stronger` |
-| `totalSupply` | The total minted amount of the token | `100000000` |
 
 ### Images
 
