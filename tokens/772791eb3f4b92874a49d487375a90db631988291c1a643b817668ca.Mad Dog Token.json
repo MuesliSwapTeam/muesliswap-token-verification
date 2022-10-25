@@ -1,0 +1,19 @@
+{
+    "policyId":"772791eb3f4b92874a49d487375a90db631988291c1a643b817668ca",
+    "name":"Mad Dog Token",
+    "symbol":"MD",
+    "website":"https://mdtoken.io/",
+    "description":"The Mad Dog Token (MD Token) is fundamentally designed as a native utility and governance token.",
+    "totalSupply":21000000,
+    "amounts":[
+       1,
+       10,
+       100,
+       1000,
+       10000,
+       100000,
+       1000000,
+       10000000
+    ],
+    "decimalPlaces":8
+ }
