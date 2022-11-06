@@ -1,0 +1,9 @@
+{
+    "policyId": "bb4cfbe0f6be60b80f90f815e8353b93431de4df785d75350b9d214a",
+    "name": "HERB",
+    "symbol": "HERB",
+    "website": "https://adabudz.com",
+    "description": "The official native token of the ADA BUDZ ecosystem",
+    "totalSupply": 420000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000]
+}
