@@ -1,0 +1,9 @@
+{
+    "policyId": "12d5f4fefe222d52a4fdcee56f4b272911d7c2202b068a08ebf53270",
+    "name": "IAMX",
+    "symbol": "IAMX",
+    "website": "https://iamx.id",
+    "description": "IAMX Identity Token",
+    "totalSupply": 60000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
