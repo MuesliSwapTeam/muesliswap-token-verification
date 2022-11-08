@@ -1,1 +1,8 @@
-{"name": "safari", "files": [{"src": "ipfs://QmR4fbzJkFh8mfxVevaP2hRHkcJji8B93hakaANJP1pMAh", "mediaType": "video/mp4"}], "image": "ipfs://QmS45hx7QYfXzPMnzAZaiJkfPfDjhtA1DiCA1wHHEAyomK", "ticker": "$SAFARI", "decimals": 0, "description": "Safari Squads Official Token."}
+{
+    "policyId": "551f1b35abe2e5d917f43505154f3f12a956c52ec07e5134ca464265",
+    "name": "SAFARI", 
+    "symbol": "SAFARI", 
+    "website": "https://medium.com/@safarisquad/afari-tokenomics-7cadb225697c", 
+    "description": "Utility token for everything Safari Squad related",
+    "totalSupply": 666000000,
+}
