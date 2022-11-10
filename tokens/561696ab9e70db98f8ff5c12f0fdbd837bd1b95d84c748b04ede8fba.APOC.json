@@ -1,0 +1,9 @@
+{
+    "policyId": "561696ab9e70db98f8ff5c12f0fdbd837bd1b95d84c748b04ede8fba",
+    "name": "APOC",
+    "symbol": "APOC",
+    "website": "https://apocalypse-nft.io/",
+    "description": "Native Horde utility token for the ADA Apocalypse Ecosystem",
+    "totalSupply": 10000000000,
+    "amounts": [1, 2, 5, 10, 100, 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000, 1000000, 2000000, 5000000, 10000000, 20000000, 50000000]
+}
