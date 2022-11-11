@@ -1,9 +1,9 @@
 {
   "policyId": "cd5b9dd91319edbb19477ad00cbef673a221e70a17ef043951fc6786",
-  "name": "Redeemable",
-  "symbol": "RED",
+  "name": "Redeemable USD",
+  "symbol": "RUSD",
   "website": "https://www.shareslake.com/",
-  "description": "A fiat backed stablecoin pegged to living costs to preserve purchasing power. Shareslake base coin.",
+  "description": "The fiat-backed stablecoin issued by Shareslake. Powering the fully stable branch of Cardano.",
   "amounts": [10000, 50000, 100000, 150000, 300000, 400000, 500000, 600000, 700000, 800000, 900000, 1000000, 2000000, 3000000, 4000000, 5000000, 10000000],
   "decimalPlaces": 4
 }
