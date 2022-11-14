@@ -1,0 +1,10 @@
+{
+    "policyId":"718c383a22b0239d034a95e750fd09a5930bddcffc24bf5c566b1cf1",
+    "name": "SUMMON",
+    "symbol":"SUMMON",
+    "website":"https://summonplatform.io/",
+    "description":"The official governance token of Summon DAO",
+    "totalSupply":1000000000000000,
+    "amounts":[1,2,5,10,20,50,75,100,200,500,750,1000,2000,2500,5000,7500,10000,15000,20000,100000],
+    "decimalPlaces":6
+}
