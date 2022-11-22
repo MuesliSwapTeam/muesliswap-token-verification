@@ -1,0 +1,9 @@
+{
+    "policyId": "fce30a7f7d16e48c69a7847ec908fe098a0efa0dbc99bad8e2aec15a",
+    "name": "IDOL",
+    "symbol": "IDOL",
+    "website": "https://falseidols.xyz",
+    "description": "False Idols Economic's token",
+    "totalSupply": 200000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
