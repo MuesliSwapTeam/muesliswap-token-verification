@@ -1,0 +1,21 @@
+{
+    "policyId": "f6ac48c64aa7af16434d9f84e014d11fba38525b436acc338ff20b0d",
+    "name": "Mithrandir Coin", 
+    "symbol": "Mtc", 
+    "website": "https://mithrandircoin.org/", 
+    "description": "A token for us who love LOTHR,and especially Mithdrandir",
+    "totalSupply": 1000000,
+    "amounts": [
+    	1,
+    	2,
+    	5,
+     10,
+     20,
+     50,
+     100,
+     200,
+     500,
+     1000,
+     10000,
+    ]
+}
