@@ -1,0 +1,10 @@
+{
+    "policyId":"85d87212f6096732ac1cdbf604a12aa8cfd1fd0b66ab28fc77d3764c",
+    "name": "DINO",
+    "symbol":"DINO",
+    "website":"https://www.cryptodino.io",
+    "description":"The official utility token of Cryptodino ecosystem",
+    "totalSupply":1000000000000000,
+    "amounts":[1,2,5,10,20,50,75,100,200,500,750,1000,2000,2500,5000,7500,10000,15000,20000],
+    "decimalPlaces":6
+}
