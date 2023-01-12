@@ -1,0 +1,10 @@
+{
+    "policyId": "a91173a8736b4fac401bebcc26fd1a878715b8c0a1cda16d17fb0a3a",
+    "name": "NIXI",
+    "symbol": "NIXI",
+    "website": "https://www.pachanixi.com",
+    "description": "The utility and governance token for Pachanixi Metacosmos.",
+    "totalSupply": 125000000,
+    "amounts": [1, 5, 10, 20, 30, 40, 50, 100, 200, 300, 400, 500, 1000, 2000, 3000, 4000, 5000, 10000, 20000, 30000, 40000, 50000, 100000],
+    "decimalPlaces": 6
+}
