@@ -1,0 +1,9 @@
+{
+    "policyId": "3010f2093bab0dca73f3ab6e6c1825f0088a86d94d375986e21ae4a3",
+    "name": "NAKA",
+    "symbol": "NAKA",
+    "website": "https://www.nakanonft.com/",
+    "description": "$NAKA is the official currency of the Nakano and will be used for accessing manga and more assets within the 'Nakanoverse'!",
+    "totalSupply": 50000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 5000000]
+}
