@@ -1,0 +1,9 @@
+{
+    "policyId": "96abe9a17b65c2133ed7e11864338e965efc418c0961ceecfac16172",
+    "name": "YETI",
+    "symbol": "YETI",
+    "website": "https://smoothyetimountainclub.com/",
+    "description": "The official token of The Smooth Yeti Mountain Club",
+    "totalSupply": 200000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
