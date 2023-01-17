@@ -1,9 +1,0 @@
-{
-    "policyId": "09f5f55fcad17503e6b7acc81de7c80f84b76e76d17085f0e32f1ce2",
-    "name": "AWOO",
-    "symbol": "AWOO",
-    "website": "https://www.unbotheredwolves.com/awoo",
-    "description": "The official currency of Unbothered Wolves ecosystem. Deflationary: All tokens spent on the mint platform and 2nd collection will be burned.",
-    "totalSupply": 69000000,
-    "amounts": [1, 10, 100, 1000, 10000, 100000]
-}
