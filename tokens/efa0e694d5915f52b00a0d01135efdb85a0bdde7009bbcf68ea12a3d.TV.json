@@ -1,0 +1,9 @@
+{
+    "policyId": "efa0e694d5915f52b00a0d01135efdb85a0bdde7009bbcf68ea12a3d",
+    "name": "TV",
+    "symbol": "TV",
+    "website": "https://tvkills.co/",
+    "description": "$TV Token provides access to utilities in TVKills's ecosystem!",
+    "totalSupply": 100000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000]
+}
