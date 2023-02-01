@@ -1,0 +1,11 @@
+{
+    "policyId": "3ad549db675f4c52f2f3b5a84d8c4349d17982d39ec5be0063f74de0",
+    "name": "MUSIC",
+    "symbol": "MUSIC",
+    "website": "https://livemusic.show",
+    "description": "MUSIC Tokens are loyalty tokens that can be used on our
+platform.",
+    "totalSupply": 50000000,
+    "amounts": [1, 2, 5, 10, 20, 25, 50, 100, 500, 1000, 5000, 10000, 1000000],
+    "decimalPlaces": 2
+}
