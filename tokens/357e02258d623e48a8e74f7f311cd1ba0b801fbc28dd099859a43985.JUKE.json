@@ -1,0 +1,10 @@
+{
+    "policyId": "357e02258d623e48a8e74f7f311cd1ba0b801fbc28dd099859a43985",
+    "name": "JUKE",
+    "symbol": "JUKE",
+    "website": "https://www.jukeboys.io/",
+    "description": "$JUKE is the official Jukeboys project utility token",
+    "totalSupply": 1000000000,
+    "amounts": [50, 250, 500, 1000, 5000, 10000, 100000, 1000000, 5000000, 10000000],
+    "decimalPlaces": 0
+}
