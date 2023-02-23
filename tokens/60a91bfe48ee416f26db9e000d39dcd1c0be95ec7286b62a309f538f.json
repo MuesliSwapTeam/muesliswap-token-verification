@@ -1,0 +1,16 @@
+{
+    "policyId": "60a91bfe48ee416f26db9e000d39dcd1c0be95ec7286b62a309f538f",
+    "name": "PUNT", 
+    "symbol": "$PUNT", 
+    "website": "https://www.cardanoclanns.io", 
+    "description": "Project Token for Cardano Clanns CNFT Project",
+    "totalSupply": 500000000,
+    "amounts": [
+    	500,
+        1000,
+        10000,
+        100000,
+        1000000,
+        10000000
+    ]
+}
