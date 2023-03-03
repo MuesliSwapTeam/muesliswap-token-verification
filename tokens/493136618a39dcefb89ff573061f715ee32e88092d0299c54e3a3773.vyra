@@ -1,0 +1,10 @@
+{
+    "policyId": "493136618a39dcefb89ff573061f715ee32e88092d0299c54e3a3773",
+    "name": "VYRA",
+    "symbol": "VYRA",
+    "website": "https://vyra.io",
+    "description": "Social Network based on Cardano",
+    "totalSupply": 250000000,
+    "amounts": [10, 20, 30, 50, 100, 150, 200, 300, 500, 750, 1000, 1500, 2000, 3000, 4000, 5000, 10000, 15000, 20000],
+    "decimalPlaces": 0
+}
