@@ -1,0 +1,9 @@
+{
+    "policyId": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac",
+    "name": "BUBBLE",
+    "symbol": "BUBBLE",
+    "website": "https://mazzantitokens.wordpress.com/",
+    "description": "The Ultimate Bubble",
+    "totalSupply": 100000000000000,
+    "amounts": [1, 10, 100, 1000, 10000]
+}
