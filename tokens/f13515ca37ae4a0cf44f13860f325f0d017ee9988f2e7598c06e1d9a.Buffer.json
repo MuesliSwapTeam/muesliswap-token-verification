@@ -6,5 +6,5 @@
 	"description": "Emerging token you don't want to miss!",
 	"totalSupply": 100000000000,
 	"amounts": [1, 5, 3, 4, 5, 10, 25, 100, 1000, 10000, 100000],
-	"decimalPlaces": 6
+	"decimalPlaces": 0
 }
