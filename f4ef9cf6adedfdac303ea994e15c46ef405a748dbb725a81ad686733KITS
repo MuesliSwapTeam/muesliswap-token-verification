@@ -1,0 +1,7 @@
+"policyId": "f4ef9cf6adedfdac303ea994e15c46ef405a748dbb725a81ad686733",
+    "name": "KITS",
+    "symbol": "KITS",
+    "website": "www.blurrykitslounge.com",
+    "description": "KITS is the Utility Token for Blurry Kits",
+    "totalSupply": 55555555,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
