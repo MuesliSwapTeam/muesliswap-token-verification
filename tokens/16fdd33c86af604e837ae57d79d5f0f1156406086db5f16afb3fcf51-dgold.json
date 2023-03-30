@@ -3,7 +3,7 @@
     "name": "The Digital Gold Token",
     "symbol": "DGOLD",
     "website": "https://www.thedigitalgoldtoken.com/",
-    "description": "PixelCat Utility Token",
+    "description": "Digital Gold Token is the foundational element of a Token Ecosystem with a virtual mining operation that will govern and power a digital marketplace as well as a social, economic, and gaming metaverse interface.",
     "totalSupply": 21000000,
     "amounts": [100,500,1000,2500,5000,10000,50000,100000,250000,500000,1000000],
     "decimalPlaces" : 7
