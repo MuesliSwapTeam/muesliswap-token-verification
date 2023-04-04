@@ -1,0 +1,9 @@
+{
+    "policyId": "b9939a9b1a3b21098114cf8c0d21d1f5db7313f59592e78d1d4ccdc3",
+    "name": "MACH",
+    "symbol": "MACH",
+    "website": "https://machiavellic.io/ ",
+    "description": "Governance Token for the Play and Earn game Machiavellic",
+    "totalSupply": 1000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
