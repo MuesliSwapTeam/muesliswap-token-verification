@@ -5,5 +5,5 @@
     "website": "https://machiavellic.io/ ",
     "description": "Governance Token for the Play and Earn game Machiavellic",
     "totalSupply": 1000000000,
-    "amounts": [1, 10, 100, 1000, 10000, 100000]
+    "amounts": [1, 10, 50, 100, 500, 1000, 5000, 10000, 50000, 100000]
 }
