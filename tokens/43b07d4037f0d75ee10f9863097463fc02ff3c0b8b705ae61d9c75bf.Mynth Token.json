@@ -1,0 +1,9 @@
+{
+    "policyId": "43b07d4037f0d75ee10f9863097463fc02ff3c0b8b705ae61d9c75bf",
+    "name": "Mynth Token",
+    "symbol": "MNT",
+    "website": "https://mynth.ai/",
+    "description": "Mynth enables cross-chain swaps for Cardano",
+    "totalSupply": 100000000,
+    "decimalPlaces": 6
+}
