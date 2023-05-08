@@ -1,0 +1,10 @@
+{
+  "policyId": "bf9354cba4ee83c5de05c72830c6430967a26a1656b06293541d23e1",
+  "name": "Tangent Protocol",
+  "symbol": "TANG",
+  "website": "https://tangent.art/",
+  "description": "Tangent is the Radical Art & Finance Web3 Protocol",
+  "totalSupply": 3141592650,
+  "amounts": [1, 10, 50, 100, 500, 1000, 5000, 10000, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000],
+  "decimalPlaces": 6
+}
