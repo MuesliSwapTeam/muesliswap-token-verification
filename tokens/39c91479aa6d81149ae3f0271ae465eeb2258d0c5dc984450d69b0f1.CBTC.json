@@ -1,0 +1,9 @@
+{
+    "policyId": "39c91479aa6d81149ae3f0271ae465eeb2258d0c5dc984450d69b0f1",
+    "name": "CBTC",
+    "symbol": "CBTC",
+    "website": "https://cardanobtc.gitbook.io/cbtc/",
+    "description": "Bitcoin on Cardano - Fast and Secure",
+    "totalSupply": 21000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
