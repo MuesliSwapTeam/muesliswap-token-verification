@@ -1,0 +1,10 @@
+{
+    "policyId": "3c6c4b660cfe03cf02a66d2315148f9314492d643da1c7032ff22920",
+    "name": "ETH",
+    "symbol": "ETH",
+    "website": "https://linktr.ee/ethcardano",
+    "description": "A memecoin: Fixing Ethereum by putting it on Cardano.",
+    "totalSupply": 420000000,
+    "amounts": [1, 10, 50, 100, 500, 1000, 5000, 10000, 50000, 100000],
+    "decimalPlaces": 0
+}
