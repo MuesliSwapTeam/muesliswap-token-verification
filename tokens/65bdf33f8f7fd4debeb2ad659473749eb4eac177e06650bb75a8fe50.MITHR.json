@@ -1,0 +1,10 @@
+{
+    "policyId": "65bdf33f8f7fd4debeb2ad659473749eb4eac177e06650bb75a8fe50",
+    "name": "Mithrandir Token",
+    "symbol": "MITHR",
+    "website": "https://www.mithr.io",
+    "description": "MITHR, the token that rewards you for caring for the environment. We will compensate you for caring for the planet with our Token.",
+    "totalSupply": 420000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000],
+    "decimalPlaces": 0
+}
