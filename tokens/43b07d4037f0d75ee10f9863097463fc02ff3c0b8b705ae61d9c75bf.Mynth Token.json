@@ -3,7 +3,7 @@
     "name": "Mynth Token",
     "symbol": "MNT",
     "website": "https://mynth.ai/",
-    "description": "Mynth enables cross-chain swaps for Cardano",
+    "description": "Mynth enables cross-chain swaps that connect Cardano to the real world",
     "totalSupply": 100000000,
     "decimalPlaces": 6
 }
