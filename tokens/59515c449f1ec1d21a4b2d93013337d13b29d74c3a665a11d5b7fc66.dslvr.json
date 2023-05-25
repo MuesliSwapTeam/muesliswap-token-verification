@@ -1,0 +1,9 @@
+{
+    "policyId": "59515c449f1ec1d21a4b2d93013337d13b29d74c3a665a11d5b7fc66",
+    "name": "Digital Silver Token",
+    "symbol": "DSLVR",
+    "website": "https://www.thedigitalgoldtoken.com/",
+    "description": "The Digital Gold Token Ecosystem consists of 3 tokens: Digital Gold, Digital Silver, and Digital Diamonds. Digital Silver is the main transactional token of the ecosystem and the product of the virtual mining process. Holders of Digital Gold who also possess mining permit NFT's will earn Digital Silver. Holders of both Digital Gold and Digital Silver will earn the rare Digital Diamond rewards. Only 21 Billion tokens will ever be minted.",
+    "totalSupply": 21000000000,
+    "decimalPlaces" : 7
+}
