@@ -1,0 +1,9 @@
+{
+    "policyId": "96ad5ab136d2193dda2afb662285b93e48d265e14df59ee0f33925ae",
+    "name": "Digital Diamond Token",
+    "symbol": "DGEM",
+    "website": "https://www.thedigitalgoldtoken.com/",
+    "description": "The Digital Gold Token Ecosystem consists of 3 tokens: Digital Gold, Digital Silver, and Digital Diamonds. Digital Diamond is the governance token overseeing and controlling all decisions and actions of all the tokens in the ecosystem as well as the Digiverse DashBoard and Digiverse Marketplace. Holders of both Digital Gold and Digital Silver will earn the rare Digital Diamond rewards. Only 999,999 tokens will ever be minted.",
+    "totalSupply": 999999,
+    "decimalPlaces" : 7
+}
