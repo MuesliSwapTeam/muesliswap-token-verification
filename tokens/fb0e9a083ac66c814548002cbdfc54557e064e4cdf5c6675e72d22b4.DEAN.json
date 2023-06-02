@@ -1,0 +1,10 @@
+{
+    "policyId": "fb0e9a083ac66c814548002cbdfc54557e064e4cdf5c6675e72d22b4",
+    "name": "DEAN",
+    "symbol": "DEAN",
+    "website": "https://dean.community/",
+    "description": "Made by the Deans for the Deans",
+    "totalSupply": 420000000000,
+    "amounts": [1, 10, 100, 1000, 100000, 1000000, 10000000, 100000000, 1000000000, 10000000000, 10000000000, 100000000000],
+    "decimalPlaces": 0
+}
