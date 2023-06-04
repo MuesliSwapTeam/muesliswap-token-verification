@@ -1,0 +1,10 @@
+{
+    "policyId": "501dd5d2fbab6af0a26b1421076ff3afc4d5a34d6b3f9694571116ea",
+    "name": "KONDA",
+    "symbol": "KONDA",
+    "website": "https://adakondacoin.com/",
+    "description": "$KONDA, to infinity and beyonda!",
+    "totalSupply": 84322711100,
+    "amounts": [1, 10, 100, 1000, 100000, 1000000, 10000000, 100000000, 1000000000, 10000000000, 10000000000],
+    "decimalPlaces": 0
+}
