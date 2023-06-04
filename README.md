@@ -27,8 +27,10 @@ Note that there are specific minimum requirements to get verified, such as:
 📝 A token description   
 📊 Tokenomics  
 ✉️ Contact information (e.g., twitter, email)  
-  
-Please make sure that your policy id is somewhere on your website!  
+
+### Important:  
+**Please make sure that your policy id is somewhere on your website!**  
+**Please indicate which category your token belongs to! (DeFi, Meme, etc.)**  
 If you do not know how to implement these requirements, you can get some inspiration by looking at our [MILK token](https://docs.muesliswap.com/cardano/tokenomics/muesliswap-milk) or contact us.  
 
 
