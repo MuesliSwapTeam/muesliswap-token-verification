@@ -1,0 +1,9 @@
+{
+    "policyId": "5ad8deb64bfec21ad2d96e1270b5873d0c4d0f231b928b4c39eb2435",
+    "name": "ADOSIA", 
+    "symbol": "ADO", 
+    "website": "https://adosia.market/", 
+    "description": "Adosia brings IoT utility & decentralized manufacturing to the Cardano blockchain",
+    "totalSupply": 12000000000,
+    "amounts": [1,10,100,1000,10000,100000,1000000]
+}
