@@ -1,0 +1,9 @@
+{
+    "policyId": "1e54cf3b5832978582ac3baade392fa09a52dbd588dae1a403c4d72c",
+    "name": "RUMAHKITA",
+    "symbol": "RK",
+    "website": "https://twitter.com/rumahkita136",
+    "description": "Life is short. Let's make something beautiful for others. \"sharing is caring\"",
+    "totalSupply": 136000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000, 10000000000, 100000000000]
+}
