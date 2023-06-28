@@ -4,6 +4,6 @@
   "symbol": "AGC",
   "website": "https://discord.gg/3xmM84SPWn",
   "description": "The AGC token is our in-game currency that will run our economy",
-  "totalSupply": 300000000000,
+  "totalSupply": 300000000000000,
   "decimalPlaces" : 6
 }
