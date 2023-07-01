@@ -1,0 +1,9 @@
+{
+  "policyId": "e5602dec7811774ee560859292c20c3694a19d5daf72ccd94fc1a18d",
+  "name": "All Games Coin",
+  "symbol": "AGC",
+  "website": "https://discord.gg/3xmM84SPWn",
+  "description": "The AGC token is our in-game currency that will run our economy",
+  "totalSupply": 300000000000000,
+  "decimalPlaces" : 6
+}
