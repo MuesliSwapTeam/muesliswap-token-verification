@@ -1,0 +1,9 @@
+{
+    "policyId": "438514ae1beb020d35e5389993447cea29637d6272c918017988ef36",
+    "name": "AdaYield",
+    "symbol": "ADY",
+    "website": "https://adayield.io/",
+    "description": "ADAYield (ADY) - token that yields ADA for its community.",
+    "totalSupply": 100000000000,
+    "decimalPlaces" : 7
+}
