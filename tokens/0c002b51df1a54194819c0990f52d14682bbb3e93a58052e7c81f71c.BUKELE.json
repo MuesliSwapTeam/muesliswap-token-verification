@@ -1,0 +1,9 @@
+{
+    "policyId": "0c002b51df1a54194819c0990f52d14682bbb3e93a58052e7c81f71c",
+    "name": "BUKELE",
+    "symbol": "BUKELE",
+    "website": "https://www.bukeletoken.com/",
+    "description": "Bukele the peoples token, aims to bring investors to DeFi World",
+    "totalSupply": 1000000000000,
+    "amounts": [10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000, 10000000000]
+}
