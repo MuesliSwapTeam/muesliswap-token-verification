@@ -1,0 +1,9 @@
+{
+    "policyId": "8ee6a10504961bac6531d79bb32a616187252fece59dc0ac90196451",
+    "name": "YEET",
+    "symbol": "YEET",
+    "website": "https://www.yeetcoinada.com/",
+    "description": "YEET your way to financial freedom",
+    "totalSupply": 69000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
