@@ -1,0 +1,10 @@
+{
+    "policyId": "578029f3edb573e764de1d933a893f9ddcf58411025816b64549b1cf",
+    "name": "Dennis",
+    "symbol": "Dennis",
+    "website": "https://projectdennis.com",
+    "description": "Project Dennis",
+    "totalSupply": 1000000,
+    "amounts": [1],
+    "decimalPlaces" : 6
+}
