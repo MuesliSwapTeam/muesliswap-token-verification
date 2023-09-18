@@ -1,15 +1,15 @@
 # MuesliSwap Token Verification 🪙✔
 
-The official repository to verify your token @ AdaMuesliSwap  
+The official repository to verify your token on [MuesliSwap](https://muesliswap.com/) 
 Verification means we checked the token description, tokenomics, and the minting policy of the token.  
 Note that this does not imply any legal responsibilities from the team towards verified tokens.  
 Always DYOR (Do Your Own Research)! 🧐  
 Please also read the corresponding section in our [documentation](https://docs.muesliswap.com/cardano/community-tokens/token-verification).
 
 ## Fees
-Using the Community section, it is possible to trade **any** token on Cardano **without** being verified.  
-However, verification will give you more visibility and increase the trust of the community.  
-To account for processing each verification manually and to prevent people from spamming requests we require a verification fee of **50 ADA**. 
+On [MuesliSwap](https://muesliswap.com/) it is possible to trade **any** token on Cardano **without** being verified.  
+However, verification will give you more visibility and increase the community's trust.  
+To account for processing each verification manually and to prevent people from spamming requests, we require a verification fee of **50 ADA**. 
 
 ## How can I get verified?
 You need to submit a pull request to this repository. If you don't know how to do that, no problem!  
