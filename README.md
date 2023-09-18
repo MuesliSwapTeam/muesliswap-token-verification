@@ -1,6 +1,6 @@
 # MuesliSwap Token Verification 🪙✔
 
-The official repository to verify your token on [MuesliSwap](https://muesliswap.com/) 
+The official repository to verify your token on [MuesliSwap](https://muesliswap.com/).  
 Verification means we checked the token description, tokenomics, and the minting policy of the token.  
 Note that this does not imply any legal responsibilities from the team towards verified tokens.  
 Always DYOR (Do Your Own Research)! 🧐  
