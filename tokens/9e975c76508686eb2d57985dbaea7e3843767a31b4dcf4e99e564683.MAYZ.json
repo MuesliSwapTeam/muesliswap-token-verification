@@ -1,0 +1,10 @@
+{
+    "policyId": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e564683",
+    "name": "MAYZ Token",
+    "symbol": "MAYZ",
+    "website": "https://mayz.io",
+    "description": "Create, Manage, and Invest in Cardano Funds. Decentralized, permissionless, and non custodial protocol.",
+    "totalSupply": 1000000000000000,
+	"decimalPlaces" : 6,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
