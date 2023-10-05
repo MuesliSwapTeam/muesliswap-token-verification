@@ -1,9 +1,9 @@
 {
     "policyId": "0c3b14ddb319c5a50bfd93e69d0706d1527e2b2169744665a1c534d0",
-    "name": "cPiggy Bank Token",
-    "symbol": "cPIGGY",
-    "website": "https://www.piggytoken.net/",
-    "description": "cPIGGY is designed to have a continuous and sustainable price increase in the medium-long term",
+    "name": "Vix Finance",
+    "symbol": "VixFi",
+    "website": "https://vixfitoken.com/",
+    "description": "Token of Vix Finance, a RealFi project that uses the financial resources of the blockchain to generate value in the traditional financial markets and shares the profits with VixFi token holders",
     "totalSupply": 10000000,
     "amounts": [1, 10, 100, 1000, 10000, 100000]
 }
