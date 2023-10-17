@@ -1,0 +1,9 @@
+{
+    "policyId": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34",
+    "name": "BOOK",
+    "symbol": "BOOK",
+    "website": "https://book.io/",
+    "description": "The Future of Books.",
+    "totalSupply": 10000000000,
+    "decimalPlaces" : 6
+}
