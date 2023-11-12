@@ -1,0 +1,9 @@
+{
+    "policyId": "2d587111358801114f04df83dc0015de0a740b462b75cce5170fc935",
+    "name": "CardanoGPT",
+    "symbol": "CGI",
+    "website": "https://cardanogpt.ai/",
+    "description": "The utility token of the CardanoGPT artificial intelligence ecosystem.",
+    "totalSupply": 5000000,
+    "decimalPlaces" : 6
+}
