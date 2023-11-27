@@ -1,0 +1,9 @@
+{
+    "policyId": "8d467ddd6da7da08392adc33300944861e1ac91680e369a68a599c78",
+    "name": "Skills Labs",
+    "symbol": "BSKILL",
+    "website": "https://linktr.ee/skills_labs",
+    "description": "Staking token of the Skills Labs ecosystem, redeemable for $SKILL",
+    "totalSupply": 10000000,
+    "decimalPlaces": 6
+}
