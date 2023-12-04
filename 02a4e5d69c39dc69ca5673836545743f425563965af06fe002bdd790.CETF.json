@@ -1,0 +1,10 @@
+{
+    "policyId": "02a4e5d69c39dc69ca5673836545743f425563965af06fe002bdd790",
+    "name": "CETF",
+    "symbol": "CETF",
+    "website": "https://cardanoetf.io/",
+    "description": "Governance token for the CETF DAO",
+    "totalSupply": 1000000000,
+    "amounts": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 20, 50, 100, 200, 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000, 1000000, 10000000, 100000000],
+    "decimalPlaces" : 4
+}
