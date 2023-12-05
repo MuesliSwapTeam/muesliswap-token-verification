@@ -1,0 +1,9 @@
+{
+    "policyId": "ac11a1a07f04ec9efee4c46c359725922377ec5a4596bbed670cc920",
+    "name": "LOUEY",
+    "symbol": "LOUEY",
+    "website": "https://louey.xyz/",
+    "description": "Mens blog and community, here to help and serve content that can benefit others",
+    "totalSupply": 100000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
