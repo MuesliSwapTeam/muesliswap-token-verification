@@ -1,0 +1,10 @@
+{
+    "policyId": "d6167623e9553045821690258fc5d60313ba79112dc1eaaaf371b04f",
+    "name": "Not Even Token",
+    "symbol": "NET",
+    "website": "https://www.notevenfungible.finance/",
+    "description": "Not Even Fungible Utility Token",
+    "totalSupply": 55000000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000],
+    "decimalPlaces": 6
+}
