@@ -1,0 +1,26 @@
+{
+    "policyId": "57acbba83498d28b684539000e64680e1e56c5b6e4443c82a0dfff26",
+    "name": "VAHCOIN MOMO",
+    "symbol": "VMOMO",
+    "website": "https://www.vahcoin.com/",
+    "description": "Meme. The joke that's no joke on Cardano",
+    "totalSupply": 45000450045,
+    "amounts": 
+    [
+    1,
+    2,
+    5,
+    10,
+    20,
+    50,
+    100,
+    200,
+    500,
+    1000,
+    10000,
+    100000,
+    1000000,
+    10000000,
+    100000000,
+    1000000000]
+}
