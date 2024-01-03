@@ -1,0 +1,10 @@
+{
+    "policyId":"a1c94e56e4b24945338f2779e33b02e52fdd30d5f279c6131cc43c7c",
+    "name": "Buzz The Bellboy",
+    "symbol":"BUZZ",
+    "website":"https://buzzthebellboy.com/",
+    "description":"Buzz works 24/7 as bell-ringing rockstar at Cardano Hotel - Designed by the community, for the community",
+    "totalSupply":10000000000,
+    "amounts":[1,2,5,10,20,50,75,100,200,500,750,1000,2000,2500,5000,7500,10000,15000,20000],
+    "decimalPlaces":2
+}
