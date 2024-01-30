@@ -1,0 +1,9 @@
+{
+    "policyId": "c27600f3aff3d94043464a33786429b78e6ab9df5e1d23b774acb34c",
+    "name": "Coinecta",
+    "symbol": "CNCT",
+    "website": "https://coinecta.fi",
+    "description": "Official token of Coinecta",
+    "totalSupply": 80000000,
+    "decimalPlaces": 4
+}
