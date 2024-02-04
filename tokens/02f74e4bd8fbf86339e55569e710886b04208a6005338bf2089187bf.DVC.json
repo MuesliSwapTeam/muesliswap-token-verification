@@ -1,0 +1,9 @@
+{
+  "policyId": "02f74e4bd8fbf86339e55569e710886b04208a6005338bf2089187bf",
+  "name": "DVC",
+  "symbol": "DVC",
+  "website": "https://www.tokenallies.com",
+  "description": "This is the PRODUCTION TokenAllies DAO governance Token - DVC - The DVC is a fungible token that serves as a Utility token to allow holders participating in the DAO governance. Currently there is no CAP in the DVC (Open Policy ID)",
+  "totalSupply": 100000000000,
+  "decimalPlaces" : 0
+}
