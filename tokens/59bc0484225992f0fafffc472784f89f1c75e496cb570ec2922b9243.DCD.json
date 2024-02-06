@@ -1,0 +1,9 @@
+{
+    "policyId": "59bc0484225992f0fafffc472784f89f1c75e496cb570ec2922b9243",
+    "name": "Degen Creepy Dough",
+    "symbol": "DCD",
+    "website": "https://degencreepydough.com/",
+    "description": "A Cardano Meme Coin",
+    "totalSupply": 100000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000]
+}
