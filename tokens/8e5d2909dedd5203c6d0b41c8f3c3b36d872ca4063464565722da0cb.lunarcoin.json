@@ -1,0 +1,20 @@
+{
+    "policyId": "8e5d2909dedd5203c6d0b41c8f3c3b36d872ca4063464565722da0cb",
+    "name": "lunarcoin", 
+    "symbol": "LUNAR", 
+    "website": "https://lunarpool.io", 
+    "description": "Official currency of lunarpool.io",
+    "totalSupply": 100000000,
+    "amounts": [
+    	1000,
+    	2000,
+    	5000,
+      10000,
+      20000,
+      50000,
+      100000,
+      200000,
+    	500000,
+      1000000
+    ]
+}
